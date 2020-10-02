@@ -6,4 +6,5 @@ void main()
     cout<<"Enter 2 nos.\n";
     cin>>a>>b;
     cout<<a*b;
+    //kuch to ho raha hai
 }
