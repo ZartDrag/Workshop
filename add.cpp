@@ -6,4 +6,5 @@ void main()
     cout<<"Enter 2 numbers"<<endl;
     cin>>a>>b;
     cout<<a+b;
+    //just adding two numbers
 }
